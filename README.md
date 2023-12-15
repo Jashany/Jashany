@@ -19,27 +19,28 @@
 
 ### Languages and Tools:
 
-- ![Blender](https://download.blender.org/branding/community/blender_community_badge_white.svg)
-- ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
-- ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-- ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-- ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
-- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-- ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
-- ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
-- ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)
-- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
-- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-- ![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg)
-- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
-- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-- ![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
-- ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
-- ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
-- ![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg)
+- <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="60" width="60">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="60" width="60">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="60" width="60">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="60" width="60">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="60" width="60">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="60" width="60">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="60" width="60">
+- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="60" width="60">
+- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="60" width="60">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="60" width="60">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" width="60">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="60" width="60">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="60" width="60">
+- <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="60" width="60">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="60" width="60">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60" width="60">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="60" width="60">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="60" width="60">
+- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="60" width="60">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="60" width="60">
+- <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="60" width="60">
+
 
 ### GitHub Stats:
 
