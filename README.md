@@ -1,16 +1,3 @@
-# Hi there! 👋 I'm Jashanpreet Singh
-
-### A passionate FullStack developer from India
-
-<p align="center">
-  <a href="https://twitter.com/jashanpreet1011" target="blank">
-    <img src="https://img.shields.io/twitter/follow/jashanpreet1011?logo=twitter&style=for-the-badge" alt="jashanpreet1011" />
-  </a>
-</p>
-
-- 🌱 I’m currently learning **Three.Js and Devops**
-- 💬 Ask me about **Gsap, Animations, and Javascript**
-
 ### Connect with me:<h1 align="center">Hi 👋, I'm Jashanpreet Singh</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
