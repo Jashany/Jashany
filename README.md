@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jashanpreet Singh</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jashany" alt="jashany" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/jashanpreet1011" target="blank"><img src="https://img.shields.io/twitter/follow/jashanpreet1011?logo=twitter&style=for-the-badge" alt="jashanpreet1011" /></a> </p>
 
