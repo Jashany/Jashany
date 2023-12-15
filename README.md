@@ -1,29 +1,48 @@
-<h1 align="center">Hi 👋, I'm Jashanpreet Singh</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+# Hi there! 👋 I'm Jashanpreet Singh
 
+### A passionate FullStack developer from India
 
-
-<p align="center"> <a href="https://twitter.com/jashanpreet1011" target="blank"><img src="https://img.shields.io/twitter/follow/jashanpreet1011?logo=twitter&style=for-the-badge" alt="jashanpreet1011" /></a> </p>
-
-<p align="center">- 🌱 I’m currently learning **Three.Js and Devops**</p>
-
-<p align="center">- 💬 Ask me about **Gsap , Animations and Javascript**</p>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/jashanpreet1011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jashanpreet1011" height="50" width="70" /></a>
-<a href="https://linkedin.com/in/jashanpreet-singh-3b1982188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jashanpreet-singh-3b1982188" height="50" width="70" /></a>
-<a href="https://instagram.com/jashan_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jashan_2003" height="50" width="70" /></a>
+  <a href="https://twitter.com/jashanpreet1011" target="blank">
+    <img src="https://img.shields.io/twitter/follow/jashanpreet1011?logo=twitter&style=for-the-badge" alt="jashanpreet1011" />
+  </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<div style="display:flex;width:50% ;margin-inline:auto;">
-<p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" style="padding:10px" width="60" height="60"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="padding:10px" width="60" height="60"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" style="padding:10px" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="padding:10px" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" style="padding:10px" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="padding:10px" width="60" height="60"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="padding:10px" width="60" height="60"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" style="padding:10px" width="60" height="60"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" style="padding:10px" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="padding:10px" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="padding:10px" width="60" height="60"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="padding:10px" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="padding:10px" width="60" height="60"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" style="padding:10px" width="60" height="60"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="padding:10px" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="padding:10px" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="padding:10px" width="60" height="60"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" style="padding:10px" width="60" height="60"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" style="padding:10px" width="60" height="60"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" style="padding:10px" width="60" height="60"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" style="padding:10px" width="60" height="60"/> </a> </p>
-  </div>
-<div style="display:flex;align-items:center;flex-direction:column;">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jashany&show_icons=true&locale=en&layout=compact" alt="jashany" /></p>
+- 🌱 I’m currently learning **Three.Js and Devops**
+- 💬 Ask me about **Gsap, Animations, and Javascript**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jashany&show_icons=true&locale=en" alt="jashany" /></p>
+### Connect with me:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jashany&" alt="jashany" /></p>
-</div>
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="50" width="70" />](https://twitter.com/jashanpreet1011)
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="70" />](https://linkedin.com/in/jashanpreet-singh-3b1982188)
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50" width="70" />](https://instagram.com/jashan_2003)
+
+### Languages and Tools:
+
+- ![Blender](https://download.blender.org/branding/community/blender_community_badge_white.svg)
+- ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+- ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+- ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
+- ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
+- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+- ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
+- ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
+- ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)
+- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
+- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+- ![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg)
+- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+- ![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
+- ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+- ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
+- ![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg)
+
+### GitHub Stats:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jashany&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jashany&show_icons=true&locale=en)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jashany)
